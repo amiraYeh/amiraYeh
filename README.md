@@ -5,7 +5,7 @@ I'm a recent graduate from the Faculty of Computers and Information, majoring in
 
 ## 💡 What I Know
 - **Languages:** C++, C#, Java, Python
-- **Core CS:** Data Structures, Algorithms, Intro to Machine Learning
+- **Core CS:** Data Structures, Algorithms, OOP, Intro to Machine Learning
 - **.NET Stack:**  
   - **C#**  
   - **.NET Framework**  
